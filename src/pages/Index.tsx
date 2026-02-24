@@ -31,7 +31,7 @@ const tagColors: Record<string, string> = {
   "Инди": "bg-yellow-500/20 text-yellow-400 border-yellow-500/40",
 };
 
-const ADMIN_PASSWORD = "mrgames2025";
+const ADMIN_PASSWORD = "cloud7@tiger3#coffee9$moon1%puzzle";
 
 export default function Index() {
   const [activeTab, setActiveTab] = useState<Tab>("home");
